@@ -1,0 +1,4 @@
+set name=pkg.fmri value=window-maker@0.95.8,0.1
+set name=pkg.summary value="Window Maker is a simple window manager resembling NextSTEP."
+set name=pkg.description value="Window Maker is a simple window manager resembling NextSTEP."
+set name=variant.arch value=i386
